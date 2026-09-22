@@ -1,2 +1,1 @@
-esta es la segunda prueba
-este cambio fue realizado en mi nueva rama
+esta es la prueba de la rama
